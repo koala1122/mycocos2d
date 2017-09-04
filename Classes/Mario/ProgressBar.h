@@ -1,4 +1,4 @@
-#ifndef __ProgressBar_H__
+hao#ifndef __ProgressBar_H__
 #define __ProgressBar_H__
 
 #include "Common.h"
